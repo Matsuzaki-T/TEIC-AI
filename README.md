@@ -14,7 +14,7 @@ This repository contains the code an the dataset used for our manuscript. TEIC-A
 - scikit-learn >=1.0.2
 
 ## Quick start
-After cloning the repository, open the Demo.ipynb file in your cloned directory, enter the patient' data, and then run the code to tailor dose.
+After cloning the repository, open the Demo.ipynb file in your cloned directory, enter the patient's data, and then run the code to tailor dose.
 ```
 import TEIC_AI
 
