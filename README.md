@@ -14,4 +14,4 @@ This repository contains the code an the dataset used for our manuscript.TEIC-AI
 - scikit-larn >=1.0.2
 
 ## Quick start
-After cloning the repository, open the DEMO.ipynb file in your cloned directory, enter the patient' data, and then run the code to tailor dose.
+After cloning the repository, open the Demo.ipynb file in your cloned directory, enter the patient' data, and then run the code to tailor dose.
