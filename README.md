@@ -11,7 +11,7 @@ This repository contains the code an the dataset used for our manuscript. TEIC-A
 - PsmPy >= 0.3.5
 - matplotlib >= 3.5.1
 - seaborn >= 0.11.2
-- scikit-larn >=1.0.2
+- scikit-learn >=1.0.2
 
 ## Quick start
 After cloning the repository, open the Demo.ipynb file in your cloned directory, enter the patient' data, and then run the code to tailor dose.
