@@ -1,7 +1,7 @@
 # TEIC-AI
 
 ## Overview
-This repository contains the code an the dataset used for our manuscript. TEIC-AI is a predictive model that operates on tailoring initial dosing regimen of teicoplanin, a glycopeptide antibiotic with activity against Gram-positive bacteria including methicillin-resistant Staphylococcus aureus (MRSA).
+This repository contains the code and the dataset used for our manuscript. TEIC-AI is a predictive model that operates on tailoring initial dosing regimen of teicoplanin, a glycopeptide antibiotic with activity against Gram-positive bacteria including methicillin-resistant Staphylococcus aureus (MRSA).
 
 
 ## Software requirements
