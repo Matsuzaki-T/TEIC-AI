@@ -36,3 +36,4 @@ T7 = 0 #change T7 to 1 (Sunday)
 TEIC_AI.planning(Age,BW,BMI,Ccr,Alb,T0,T1,T2,T3,T4,T5,T6,T7)
 
 ```
+Web-based application of TEIC_AI is available [here](https://teicdoseplan-d3872b1826c6.herokuapp.com).
